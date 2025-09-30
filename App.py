@@ -34,7 +34,7 @@ app_mode = st.sidebar.selectbox("Select Page",["Home","About","Disease Recogniti
 if(app_mode == "Home"):
     st.header("CROPS DISEASE PREDICTION SYSTEM")
     image_path = 'uploads/UI image/home_page.jpeg'
-    st.image(image_path, use_container_width=True)
+    st.image(image_path, width=850)
 
     st.markdown("""
     Welcome to the Plant Disease Recognition System! 🌿🔍
