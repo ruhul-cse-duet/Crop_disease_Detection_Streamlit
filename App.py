@@ -144,7 +144,7 @@ elif(app_mode=="Disease Recognition"):
         treatment(output)
         end = time.time()
         logging.info(f"Prediction Response Time: {end - start:.4f} sec")
-        #  .streamlit run App.py
+        #  streamlit run App.py
 
 
 
