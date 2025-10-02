@@ -5,6 +5,9 @@ This project is a deep learning-based web application for identifying plant leaf
 
 ---
 
+## Streamlit cloud project link for testing
+[Click Project](https://crop-disease-detections.streamlit.app/)
+
 ## 📌 Features
 
 - 🔍 Image classification using a trained CNN (Convolutional Neural Network).
